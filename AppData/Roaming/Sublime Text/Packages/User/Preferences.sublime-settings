@@ -1,0 +1,14 @@
+{
+	"font_face": "Cascadia Mono",
+	"font_size": 12,
+	"default_font_size": 12,
+
+	"hardware_acceleration": "opengl",
+    
+    "vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": false,
+	"vintage_ctrl_keys": false,
+	"relative_line_numbers": true,
+	"ignored_packages": [""]
+
+}
