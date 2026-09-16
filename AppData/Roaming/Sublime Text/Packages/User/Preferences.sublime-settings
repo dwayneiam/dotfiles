@@ -9,6 +9,7 @@
 	"vintage_use_clipboard": false,
 	"vintage_ctrl_keys": false,
 	"relative_line_numbers": true,
-	"ignored_packages": [""]
+	"ignored_packages": [],
 
+	"color_scheme": "Flexoki Light.sublime-color-scheme",
 }
